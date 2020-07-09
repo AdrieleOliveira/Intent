@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicativo 2</string>
+    <string name="logo">Ícone de compartilhamento</string>
+    <string name="recebido">Conteúdo recebido</string>
+</resources>

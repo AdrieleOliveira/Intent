@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicativo 1</string>
+    <string name="titulo">Compartilhar Conteúdo</string>
+    <string name="texto">Texto</string>
+    <string name="imagem">Imagem</string>
+    <string name="texto_input">Texto a ser compartilhado</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="selecionar">Selecionar Imagem</string>
+</resources>
